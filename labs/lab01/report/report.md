@@ -84,7 +84,7 @@ header-includes:
 
 ![запуск](image/2.jpg){ #fig:002 width=70% }
 
-![установка](image/3.jpg){ #fig:004 width=70% }
+![установка](image/3.jpg){ #fig:003 width=70% }
 
 Устанавливаю средства разработки:
 
