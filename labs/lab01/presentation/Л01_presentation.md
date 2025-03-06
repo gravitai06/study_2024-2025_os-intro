@@ -34,17 +34,17 @@ header-includes:
 
 ## Создание виртуальной машины
 
-![](image/1.jpg){ #fig:001 width=70% }
+![](image/1.PNG){ #fig:001 width=70% }
 
 ## Установливаю машину на диск
 
-![](image/2.jpg){ #fig:002 width=70% }
+![](image/2.PNG){ #fig:002 width=70% }
 
-![](image/3.jpg){ #fig:003 width=70% }
+![](image/3.PNG){ #fig:003 width=70% }
 
 ## Установка средств разработки
 
-![](image/4.jpg){ #fig:004 width=70% }
+![](image/4.PNG){ #fig:004 width=70% }
 
 
 sudo dnf -y group install development-tools
@@ -58,7 +58,7 @@ sudo dnf -y update
 sudo dnf -y install tmux mc
 
 
-![](image/5.jpg){ #fig:005 width=70% }
+![](image/5.PNG){ #fig:005 width=70% }
 
 
 Автоматическое обновление
@@ -68,7 +68,7 @@ sudo dnf -y install tmux mc
 sudo dnf -y install dnf-automatic
 
 
-![](image/6.jpg){ #fig:006 width=70% }
+![](image/6.PNG){ #fig:006 width=70% }
 
 ## Настройка машины
 
@@ -90,9 +90,9 @@ mkdir -p ~/.config/sway touch ~/.config/sway/config.d/95-system-keyboard-config.
 
 редактирую конфигурационный файл ~/.config/sway/config.d/95-system-keyboard-config.conf:
 
-![](image/7.jpg){ #fig:007 width=70% }
+![](image/7.PNG){ #fig:007 width=70% }
 
-![](image/8.jpg){ #fig:008 width=70% }
+![](image/8.PNG){ #fig:008 width=70% }
 
 ## Редактирование
 
@@ -103,14 +103,14 @@ Section "InputClass" Identifier "system-keyboard" MatchIsKeyboard "on" Option "X
 
 ## Установка pandoc
 
-![](image/9.jpg){ #fig:009 width=70% }
+![](image/9.PNG){ #fig:009 width=70% }
 
 ## Устанавливаю texlive
 
-![](image/10.jpg){ #fig:010 width=70% }
+![](image/10.PNG){ #fig:010 width=70% }
 
 ## Выполнение задания
 
 Узнаю всю информацию о системе
 
-![](image/11.jpg){ #fig:011 width=70% }
+![](image/11.PNG){ #fig:011 width=70% }
