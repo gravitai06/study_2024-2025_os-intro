@@ -1,3 +1,12 @@
+#  (2025-03-08)
+
+
+### Features
+
+* **main:** make course structure ([0160126](https://github.com/gravitai06/study_2024-2025_os-intro/commit/0160126cb101398a909491aee2404679888985d8))
+
+
+
 ## [1.0.9](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.8...v1.0.9) (2024-08-31)
 
 
